@@ -1,8 +1,8 @@
 # Estudo.JS
 
-Esse é um estudo prático de JS. Teórico e prática de todo o funcionamento do JS.
+Esse é um estudo prático de JS. Teória e prática de todo o funcionamento do JS.
 
-Assuntos abvordados:
+Assuntos abordados:
 
 🟢 Fundamentos (comece por aqui)
   .Sintaxe
